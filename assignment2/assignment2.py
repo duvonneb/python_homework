@@ -92,7 +92,7 @@ print(all_employees_list)
 # Task 10
 import os
 def get_this_value():
-    return os.getenv(f"THISVALUE")
+    return os.getenv(f"THISVALUE", "ABC") # Add default value
 
 # Task 11
 import custom_module
@@ -124,10 +124,11 @@ print(minutes1, minutes2)
 
 # Task 13
 def create_minutes_set():
-    # Merge both dicts removing duplicates
-    for i, row in enumerate(minutes1):
-        union = set(minutes1[row]) | set(minutes2[row])
-    return union
+    # Create sets from both minutes rows
+    set1 = set(minutes1['rows'])
+    set2 = set(minutes2['rows'])
+    # Return the union
+    return set1.union(set2)
 minutes_set = create_minutes_set()
 print(minutes_set)
 
@@ -149,7 +150,7 @@ def write_sorted_list():
     # Write list to a csv file
     with open('./minutes.csv', 'w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(minutes1['fields'])
-        writer.writerow(new_minutes_list)
+        writer.writerows(minutes1['fields'])
+        writer.writerows(new_minutes_list)
     return new_minutes_list
 write_sorted_list()
