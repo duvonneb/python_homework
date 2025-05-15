@@ -1,0 +1,16 @@
+Which sections of the website are restricted for crawling?
+    /wiki/Special:
+    /w/
+    /api/
+    /wiki/Wikipedia:Articles_for_deletion
+    /wiki/Wikipedia:Copyright_problems
+    /wiki/Wikipedia:Requests_for_arbitration
+
+Are there specific rules for certain user agents?
+    MJ12bot is completely disallowed from crawling any content.
+    Mediapartners-Google* is disallowed.
+    UbiCrawler, WebCopier, HTTrack, and WebReaper are all explicitly blocked.
+    IsraBot and Orthogaffe are allowed without restrictions.
+
+Robots.txt is super important because it helps control the server load, protects sensitive information, and ensures that data collection is done ethically. 
+It’s like a rulebook for responsible scraping. By following robots.txt, we respect the site owners’ boundaries and prevent any unwanted behavior from bots.
