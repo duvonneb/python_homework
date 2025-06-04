@@ -1,0 +1,11 @@
+Challenges in Task 6: Scraping Structured Data
+
+    1. Incorrect XPath Target
+    Getting the "find_elements" line to work properly was challenging to get correctly. 
+    However, I was able to copy the XPATH using the developer tools in Chrome and it helped me fulled the elements I needed.
+
+    2. Empty or Incorrect CSV Output
+    Because of the incorrect XPath and lack of filtering, my CSV file was initially empty or contained unrelated data. 
+    After fixing the XPath and applying filtering to extract only valid title-link pairs, the CSV output was correct.
+
+    These challenges helped me better understand how to navigate the DOM using browser developer tools and how to use XPath effectively in Selenium to target specific elements on a web page.
