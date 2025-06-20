@@ -1,0 +1,166 @@
+EventID,YearID,Event
+1,2,Base on Balls
+2,2,Batting Average
+3,2,Doubles
+4,2,Hits
+5,2,Home Runs
+6,2,On Base Percentage
+7,2,Runs
+8,2,Slugging Average
+9,2,Stolen Bases
+10,2,Triples
+11,3,Base on Balls
+12,3,Batting Average
+13,3,Doubles
+14,3,Hits
+15,3,Home Runs
+16,3,On Base Percentage
+17,3,Runs
+18,3,Slugging Average
+19,3,Stolen Bases
+20,3,Triples
+21,4,Base on Balls
+22,4,Batting Average
+23,4,Doubles
+24,4,Hits
+25,4,Home Runs
+26,4,On Base Percentage
+27,4,Runs
+28,4,Slugging Average
+29,4,Stolen Bases
+30,4,Triples
+31,5,Base on Balls
+32,5,Batting Average
+33,5,Doubles
+34,5,Hits
+35,5,Home Runs
+36,5,On Base Percentage
+37,5,Runs
+38,5,Slugging Average
+39,5,Stolen Bases
+40,5,Triples
+41,6,Base on Balls
+42,6,Batting Average
+43,6,Doubles
+44,6,Hits
+45,6,On Base Percentage
+46,6,Runs
+47,6,Slugging Average
+48,6,Stolen Bases
+49,7,Batting Average
+50,7,Doubles
+51,7,Hits
+52,7,Home Runs
+53,7,On Base Percentage
+54,7,Runs
+55,7,Slugging Average
+56,7,Stolen Bases
+57,8,Base on Balls
+58,8,Batting Average
+59,8,Doubles
+60,8,Hits
+61,8,Home Runs
+62,8,On Base Percentage
+63,8,Runs
+64,8,Slugging Average
+65,8,Stolen Bases
+66,8,Triples
+67,9,Base on Balls
+68,9,Batting Average
+69,9,Doubles
+70,9,Hits
+71,9,Home Runs
+72,9,On Base Percentage
+73,9,Runs
+74,9,Slugging Average
+75,9,Stolen Bases
+76,10,Base on Balls
+77,10,Batting Average
+78,10,Doubles
+79,10,Hits
+80,10,Home Runs
+81,10,On Base Percentage
+82,10,Runs
+83,10,Slugging Average
+84,10,Stolen Bases
+85,10,Triples
+86,11,Base on Balls
+87,11,Batting Average
+88,11,Doubles
+89,11,Hits
+90,11,Home Runs
+91,11,On Base Percentage
+92,11,Runs
+93,11,Slugging Average
+94,11,Stolen Bases
+95,11,Triples
+96,12,Base on Balls
+97,12,Batting Average
+98,12,Doubles
+99,12,Hits
+100,12,Home Runs
+101,12,On Base Percentage
+102,12,Runs
+103,12,Slugging Average
+104,12,Stolen Bases
+105,12,Triples
+106,13,Base on Balls
+107,13,Batting Average
+108,13,Doubles
+109,13,Hits
+110,13,Home Runs
+111,13,On Base Percentage
+112,13,Runs
+113,13,Slugging Average
+114,13,Stolen Bases
+115,13,Triples
+116,14,Base on Balls
+117,14,Batting Average
+118,14,Doubles
+119,14,Hits
+120,14,Home Runs
+121,14,On Base Percentage
+122,14,Runs
+123,14,Slugging Average
+124,14,Stolen Bases
+125,14,Triples
+126,16,Base on Balls
+127,16,Batting Average
+128,16,Doubles
+129,16,Hits
+130,16,Home Runs
+131,16,On Base Percentage
+132,16,Runs
+133,16,Slugging Average
+134,16,Stolen Bases
+135,16,Triples
+136,21,Base on Balls
+137,21,Batting Average
+138,21,Doubles
+139,21,Hits
+140,21,Home Runs
+141,21,On Base Percentage
+142,21,Runs
+143,21,Slugging Average
+144,21,Stolen Bases
+145,21,Triples
+146,24,Base on Balls
+147,24,Batting Average
+148,24,Doubles
+149,24,Hits
+150,24,Home Runs
+151,24,On Base Percentage
+152,24,Runs
+153,24,Slugging Average
+154,24,Stolen Bases
+155,24,Triples
+156,27,Base on Balls
+157,27,Batting Average
+158,27,Doubles
+159,27,Hits
+160,27,Home Runs
+161,27,On Base Percentage
+162,27,Runs
+163,27,Slugging Average
+164,27,Stolen Bases
+165,27,Triples
