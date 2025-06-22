@@ -36,7 +36,6 @@ filtered["NumericValue"] = pd.to_numeric(filtered["Value"], errors="coerce")
 team_totals = filtered.groupby("Team")["NumericValue"].sum().sort_values(ascending=False).head(10)
 st.bar_chart(team_totals)
 
-
 # Visual 2: Number of Stats Per Team
 st.subheader("Number of Stats Per Team")
 team_counts = filtered["Team"].value_counts()
