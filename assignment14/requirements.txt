@@ -1,0 +1,8 @@
+selenium==4.21.0
+webdriver-manager==4.0.1
+
+pandas==2.2.3
+sqlalchemy==2.0.36
+sqlite3
+
+streamlit==1.35.0

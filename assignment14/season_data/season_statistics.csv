@@ -1,0 +1,166 @@
+StatID,YearID,Team,Event,Value
+1,2,Chicago,Base on Balls,453
+2,2,Cleveland,Batting Average,.279
+3,2,Cleveland,Doubles,240
+4,2,Cleveland,Hits,1514
+5,2,Philadelphia,Home Runs,32
+6,2,Cleveland,On Base Percentage,.325
+7,2,Cleveland,Runs,663
+8,2,Cleveland,Slugging Average,.357
+9,2,Washington,Stolen Bases,233
+10,2,New York,Triples,77
+11,3,Chicago,Base on Balls,421
+12,3,Detroit,Batting Average,.266
+13,3,Philadelphia,Doubles,220
+14,3,Detroit,Hits,1383
+15,3,Philadelphia,Home Runs,22
+16,3,Detroit,On Base Percentage,.313
+17,3,Detroit,Runs,694
+18,3,Detroit,Slugging Average,.335
+19,3,Washington,Stolen Bases,223
+20,3,Detroit,Triples,75
+21,4,Chicago,Base on Balls,441
+22,4,Detroit,Batting Average,.267
+23,4,Detroit,Doubles,209
+24,4,Detroit,Hits,1360
+25,4,Philadelphia,Home Runs,21
+26,4,Detroit,On Base Percentage,.325
+27,4,Detroit,Runs,666
+28,4,Philadelphia,Slugging Average,.343
+29,4,Detroit,Stolen Bases,280
+30,4,Philadelphia,Triples,88
+31,5,New York,Base on Balls,464
+32,5,Philadelphia,Batting Average,.266
+33,5,Philadelphia,Doubles,191
+34,5,Philadelphia,Hits,1373
+35,5,Boston,Home Runs,43
+36,5,Detroit,On Base Percentage,.329
+37,5,Detroit,Runs,679
+38,5,Philadelphia,Slugging Average,.355
+39,5,New York,Stolen Bases,288
+40,5,Philadelphia,Triples,105
+41,6,Boston,Base on Balls,506
+42,6,Philadelphia,Batting Average,.296
+43,6,Cleveland,Doubles,238
+44,6,Detroit,Hits,1544
+45,6,Philadelphia,On Base Percentage,.357
+46,6,Philadelphia,Runs,861
+47,6,Philadelphia,Slugging Average,.398
+48,6,Detroit,Stolen Bases,276
+49,7,Philadelphia,Batting Average,.280
+50,7,Philadelphia,Doubles,223
+51,7,Philadelphia,Hits,1412
+52,7,Philadelphia,Home Runs,33
+53,7,Philadelphia,On Base Percentage,.356
+54,7,Philadelphia,Runs,794
+55,7,Philadelphia,Slugging Average,.375
+56,7,Washington,Stolen Bases,287
+57,8,New York,Base on Balls,577
+58,8,Philadelphia,Batting Average,.272
+59,8,Boston,Doubles,226
+60,8,Philadelphia,Hits,1392
+61,8,Philadelphia,Home Runs,29
+62,8,Philadelphia,On Base Percentage,.348
+63,8,Philadelphia,Runs,749
+64,8,Philadelphia,Slugging Average,.352
+65,8,New York,Stolen Bases,251
+66,8,Boston,Triples,85
+67,9,Detroit,Base on Balls,681
+68,9,Detroit,Batting Average,.268
+69,9,Detroit,Doubles,207
+70,9,Detroit,Hits,1372
+71,9,New York,Home Runs,31
+72,9,Detroit,On Base Percentage,.357
+73,9,Detroit,Runs,778
+74,9,Detroit,Slugging Average,.358
+75,9,Detroit,Stolen Bases,241
+76,10,Cleveland,Base on Balls,549
+77,10,Detroit,Batting Average,.259
+78,10,Cleveland,Doubles,218
+79,10,Detroit,Hits,1317
+80,10,New York,Home Runs,27
+81,10,Chicago,On Base Percentage,.329
+82,10,Chicago,Runs,656
+83,10,Detroit,Slugging Average,.344
+84,10,Chicago,Stolen Bases,219
+85,10,Chicago,Triples,81
+86,11,Cleveland,Base on Balls,491
+87,11,Cleveland,Batting Average,.260
+88,11,Cleveland,Doubles,176
+89,11,Washington,Hits,1144
+90,11,Philadelphia,Home Runs,22
+91,11,Cleveland,On Base Percentage,.344
+92,11,Cleveland,Runs,504
+93,11,Cleveland,Slugging Average,.341
+94,11,Cleveland,Stolen Bases,165
+95,11,Cleveland,Triples,67
+96,12,Cleveland,Base on Balls,498
+97,12,Chicago,Batting Average,.287
+98,12,Cleveland,Doubles,254
+99,12,Chicago,Hits,1343
+100,12,New York,Home Runs,45
+101,12,Cleveland,On Base Percentage,.354
+102,12,Chicago,Runs,667
+103,12,Cleveland,Slugging Average,.381
+104,12,Chicago,Stolen Bases,150
+105,12,Detroit,Triples,84
+106,13,Cleveland,Base on Balls,574
+107,13,St. Louis,Batting Average,.308
+108,13,Cleveland,Doubles,301
+109,13,St. Louis,Hits,1650
+110,13,New York,Home Runs,115
+111,13,Cleveland,On Base Percentage,.376
+112,13,Cleveland,Runs,856
+113,13,New York,Slugging Average,.426
+114,13,Washington,Stolen Bases,160
+115,13,Chicago,Triples,98
+116,14,Cleveland,Base on Balls,550
+117,14,St. Louis,Batting Average,.310
+118,14,Cleveland,Doubles,320
+119,14,St. Louis,Hits,1684
+120,14,Philadelphia,Home Runs,111
+121,14,Detroit,On Base Percentage,.373
+122,14,St. Louis,Runs,867
+123,14,St. Louis,Slugging Average,.453
+124,14,St. Louis,Stolen Bases,136
+125,14,St. Louis,Triples,94
+126,16,New York,Base on Balls,635
+127,16,New York,Batting Average,.307
+128,16,Cleveland,Doubles,321
+129,16,New York,Hits,1644
+130,16,New York,Home Runs,158
+131,16,New York,On Base Percentage,.383
+132,16,New York,Runs,975
+133,16,New York,Slugging Average,.489
+134,16,Detroit,Stolen Bases,139
+135,16,New York,Triples,103
+136,21,New York,Base on Balls,766
+137,21,Philadelphia,Batting Average,.290
+138,21,Cleveland,Doubles,310
+139,21,Philadelphia,Hits,1606
+140,21,Philadelphia,Home Runs,172
+141,21,New York,On Base Percentage,.376
+142,21,New York,Runs,1002
+143,21,Philadelphia,Slugging Average,.457
+144,21,Detroit,Stolen Bases,103
+145,21,Washington,Triples,100
+146,24,New York,Base on Balls,700
+147,24,Cleveland,Batting Average,.304
+148,24,Cleveland,Doubles,357
+149,24,Cleveland,Hits,1715
+150,24,New York,Home Runs,182
+151,24,New York,On Base Percentage,.381
+152,24,New York,Runs,1065
+153,24,New York,Slugging Average,.483
+154,24,Washington,Stolen Bases,104
+155,24,Washington,Triples,84
+156,27,St. Louis,Base on Balls,775
+157,27,Boston,Batting Average,.283
+158,27,Boston,Doubles,304
+159,27,Boston,Hits,1517
+160,27,New York,Home Runs,151
+161,27,Boston,On Base Percentage,.366
+162,27,Boston,Runs,865
+163,27,Boston,Slugging Average,.430
+164,27,Chicago,Stolen Bases,91
+165,27,Cleveland,Triples,84
